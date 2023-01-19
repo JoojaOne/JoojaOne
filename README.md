@@ -32,7 +32,6 @@ I have been fascinated with computing since childhood and currently I have dedic
 - I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
 - I love RPG Tabletop like DnD and Call of Cthulhu. 🎲
 
-## My data on Github
 
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
@@ -78,14 +77,6 @@ I have been fascinated with computing since childhood and currently I have dedic
 - I'm studying Computer Science at CS50. 💻
 
 
-## Meus dados no Github
 
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4TN&show_icons=true&theme=tokyonight)
-
-[![L4TN](https://github-readme-stats.vercel.app/api/top-langs/?username=L4TN&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/L4TN/)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
